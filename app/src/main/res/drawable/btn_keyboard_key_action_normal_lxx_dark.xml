@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shape
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
 
-    <solid
-        android:color="@color/action_key_background_lxx_dark"/>
+    <solid android:color="@color/fr33zing_action_key_background" />
 
     <size
-        android:width="35dp"
-        android:height="35dp"/>
+        android:width="@dimen/fr33zing_spacebar_height"
+        android:height="@dimen/fr33zing_spacebar_height" />
 </shape>
