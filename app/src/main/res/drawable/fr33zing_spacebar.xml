@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
-    <solid android:color="#1b1b1b" />
+    <solid android:color="@color/fr33zing_spacebar_color" />
     <size android:height="@dimen/fr33zing_spacebar_height" />
     <!-- Use a high corner radius to produce an effect like `border-radius: 50%` in CSS. -->
     <corners android:radius="128dp" />
