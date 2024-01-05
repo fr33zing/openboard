@@ -11,7 +11,9 @@
 
     <color name="fr33zing_key_press_color">@color/fr33zing_spacebar_color</color>
     <color name="fr33zing_key_press_feedback_popup_color">@color/fr33zing_accent</color>
-    <color name="fr33zing_more_keys_popup_color">@color/fr33zing_accent</color>
+    <color name="fr33zing_more_keys_popup_color">#101010</color>
+    <color name="fr33zing_more_keys_popup_color_pressed">@color/fr33zing_accent</color>
+    <color name="fr33zing_more_keys_popup_color_background">#FFFF00</color>
 
     <color name="fr33zing_action_key_background">@color/fr33zing_accent</color>
     <color name="fr33zing_action_key_background_pressed">@color/fr33zing_accent_bright</color>
